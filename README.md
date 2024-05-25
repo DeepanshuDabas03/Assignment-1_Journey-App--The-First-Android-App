@@ -1,6 +1,9 @@
-# Assignment_1---The-First-Android-App
-
-## JourneyApp
+<h1>Assignment_1---The-First-Android-App</h1>
+<h2>JourneyApp</h2>
+<p align="center">
+<img src="https://github.com/DeepanshuDabas03/Assignment-1_Journey-App--The-First-Android-App/blob/master/Image1.png" width="300" height=auto>
+<img src="https://github.com/DeepanshuDabas03/Assignment-1_Journey-App--The-First-Android-App/blob/master/Image2.png" width="300" height=auto>
+</p>
 
 ### Description
 The `JourneyApp` is a simple Android application designed to simulate a journey through multiple stops along a route. It allows users to track their progress, switch between routes, and switch between units of distance measurement (kilometers and miles). 
